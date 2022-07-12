@@ -1,1 +1,1 @@
-# UML-assignments
+# Training-assignments
